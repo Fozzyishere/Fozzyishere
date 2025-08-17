@@ -1,7 +1,6 @@
 <h1 align="center">Hola! Quoc's here.</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://fozzyishere.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://fozzyishere.github.io/portfolio/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/quoc-huy-pham-912b26272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quoc-huy-pham-912b26272/" height="30" width="40" /></a>
 </p>
 
