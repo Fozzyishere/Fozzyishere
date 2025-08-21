@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCC66&height=120&section=header&text=Hi,%20I'm%20Quoc&fontSize=40&fontColor=8A9199" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F2430&height=120&section=header&text=Hi,%20I'm%20Quoc&fontSize=40&fontColor=CBCCC6" />
 </div>
 
 <h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
@@ -19,6 +19,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quoc-huy-pham-912b26272/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpham13092002@gmail.com)
 
 </div>
 
@@ -26,19 +27,19 @@
 
 <div align="center">
 
-### Languages & Frameworks I'm Confident With
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java" alt="Primary Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css" alt="Languages" />
 </p>
 
-### Tools & Technologies I Use
+### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,docker,postman,figma,git,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frameworks" />
 </p>
 
-### Currently Learning & Exploring
+### Tools & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,arduino,photoshop" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,git,figma,linux" alt="Tools & Databases" />
 </p>
 
 </div>
