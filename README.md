@@ -48,11 +48,17 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozzyishere&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fozzyishere&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
