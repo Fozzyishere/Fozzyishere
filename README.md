@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Quoc;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCC66&height=120&section=header&text=Hi,%20I'm%20Quoc&fontSize=40&fontColor=8A9199" />
 </div>
 
 <h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
@@ -8,13 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=fozzyishere&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="fozzyishere" /> 
 </p>
 
-## 🔭 What I'm Currently Working On
+## What I'm Currently Working On
 - Building modern web applications with **Next.js** and **TypeScript**
 - Improving my **UI/UX design** skills with **Figma**
 - Exploring **React Native** for mobile development
 - Learning **Machine Learning** with **PyTorch**
 
-## 🤝 Let's Connect!
+## Contact me
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,14 +44,14 @@
 </div>
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fozzyishere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozzyishere&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozzyishere&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozzyishere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -62,11 +62,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🎯 Fun Facts About Me
-- I love solving coding challenges in my free time
-- Coffee is my debugging fuel
+## Fun Facts About Me
 - Always excited to learn about new technologies
-- I code better with music on
+- Caffeine fuels my coding sessions
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
