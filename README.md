@@ -48,26 +48,18 @@
 ## GitHub Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozzyishere&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozzyishere&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/fozzyishere/fozzyishere/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 ## Fun Facts About Me
 - Always excited to learn about new technologies
 - Caffeine fuels my coding sessions
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
