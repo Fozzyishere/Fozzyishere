@@ -9,6 +9,7 @@
 </p>
 
 ## What I'm Currently Working On
+- Finishing the 1v1 Valorant overlay with **Tauri** and **React**
 - Building modern web applications with **Next.js** and **TypeScript**
 - Improving my **UI/UX design** skills with **Figma**
 - Exploring **React Native** for mobile development
