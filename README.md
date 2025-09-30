@@ -9,10 +9,9 @@
 </p>
 
 ## What I'm Currently Working On
-- Finishing the 1v1 Valorant overlay with **Tauri** and **React**
-- Building modern web applications with **Next.js** and **TypeScript**
-- Improving my **UI/UX design** skills with **Figma**
-- Exploring **React Native** for mobile development
+- Messing around with **QML** and **Quickshell** for my personal Hyprland shell
+- Tailored my web dev skills in **React**, **Next.js** and **Tailwind**
+- Learning Embedded by digging through **C/C++** and probably **Rust** 
 - Learning **Machine Learning** with **PyTorch**
 
 ## Contact me
