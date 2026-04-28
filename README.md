@@ -1,6 +1,6 @@
 # Hi, I'm Quoc Huy Pham
 
-Software developer based in Ho Chi Minh City. Currently a bit beated up by the job market. Just coding stuff I need throughout my day to day.
+Recent Software Engineer grad based in Ho Chi Minh City. Currently a bit beaten up by the job market. Just coding stuff I need throughout my day-to-day.
 
 ## Skills
 
