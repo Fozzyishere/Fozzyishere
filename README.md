@@ -2,6 +2,8 @@
 
 Recent Software Engineer grad based in Ho Chi Minh City. Currently a bit beaten up by the job market. Just coding stuff I need throughout my day-to-day.
 
+Portfolio for the one in a million recruiter managed to find my GitHub profile: [here](https://fozzyishere.github.io/portfolio/)
+
 ## Skills
 
 ### Languages
